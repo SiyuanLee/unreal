@@ -1,4 +1,4 @@
 #!/bin/sh
 
-tensorboard --logdir /tmp/unreal_log
+tensorboard --logdir /UNREAL/unreal_log
 
